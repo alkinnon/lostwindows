@@ -9,3 +9,5 @@ Open source and free to use for non-commercial use.
 # Usage
 Simply download the program file, put it somewhere sensible and run it.
 The app includes a refresh button should you want to repeat the recovery process.
+
+![image](https://github.com/alkinnon/lostwindows/assets/17314076/b0b94f83-b188-41ab-8ed1-ad7e53b2d2e1)
